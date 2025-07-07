@@ -1,0 +1,10 @@
+transformers
+peft
+datasets
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+ipykernel
+numpy
+huggingface_hub
